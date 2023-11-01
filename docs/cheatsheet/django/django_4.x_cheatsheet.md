@@ -13,3 +13,12 @@
   * run pipenv shell in this directory (first time creates, next time launches)
 * Install your django and other project creation work in this environment 
 * Launch VS code via code . from this folder
+
+
+##### Common Installation options
+
+| # | Operating System | Comments |
+|----------|----------|----------|
+| 1 | Windows | Using Pipenv |
+| 2 | MacOS | Xcode |
+| 3 | Unix/Linux | General |
